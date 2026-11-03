@@ -1,6 +1,6 @@
 ---
 name: taxonomy-scope
-description: How to count customer feedback by taxonomy scope with the Wisdom MCP's resolve_taxonomy_scope tool. Use only when the resolve_taxonomy_scope tool is available in this session; if it is not listed, ignore this skill.
+description: How to count customer feedback by taxonomy scope with the Enterpret MCP's resolve_taxonomy_scope tool. Use only when the resolve_taxonomy_scope tool is available in this session; if it is not listed, ignore this skill.
 ---
 
 # Skill: counting feedback by taxonomy scope (follow exactly)

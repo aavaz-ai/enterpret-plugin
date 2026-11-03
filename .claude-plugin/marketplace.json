@@ -8,9 +8,9 @@
   },
   "plugins": [
     {
-      "name": "wisdom",
-      "source": "./plugins/wisdom",
-      "description": "Enterpret Wisdom MCP: query your organization's customer-feedback Knowledge Graph from Claude Code",
+      "name": "enterpret",
+      "source": "./plugins/enterpret",
+      "description": "Enterpret MCP: query your organization's customer-feedback Knowledge Graph from Claude Code",
       "version": "0.1.0"
     }
   ]
