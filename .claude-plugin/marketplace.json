@@ -1,0 +1,17 @@
+{
+  "name": "enterpret",
+  "owner": {
+    "name": "Enterpret"
+  },
+  "metadata": {
+    "description": "Enterpret plugins for Claude Code"
+  },
+  "plugins": [
+    {
+      "name": "wisdom",
+      "source": "./plugins/wisdom",
+      "description": "Enterpret Wisdom MCP: query your organization's customer-feedback Knowledge Graph from Claude Code",
+      "version": "0.1.0"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "wisdom",
+  "version": "0.1.0",
+  "description": "Enterpret Wisdom MCP: query your organization's customer-feedback Knowledge Graph from Claude Code",
+  "author": {
+    "name": "Enterpret"
+  },
+  "homepage": "https://www.enterpret.com",
+  "keywords": ["enterpret", "wisdom", "customer-feedback", "mcp"]
+}
